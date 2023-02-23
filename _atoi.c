@@ -39,7 +39,6 @@ int _isalpha(int c)
 		return (0);
 }
 
-
 /**
  *_atoi - converts a string to an integer
  *@s: the string to be converted
